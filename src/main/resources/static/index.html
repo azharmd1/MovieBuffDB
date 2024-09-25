@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Application</title>
+</head>
+<body>
+<h1>Movie Application</h1>
+<input type="text" id="search" placeholder="Search for a movie...">
+<button id="search-button">Search</button>
+<div id="movie-list"></div>
+<script>
+    document.getElementById('search-button').addEventListener('click', async () => {
+        const title = document.getElementById('search').value;
+        const response = await fetch(`/movies/search?title=${title}`);
+        const data = await response.json();
+        document.getElementById('movie-list').innerHTML = JSON.stringify(data);
+    });
+</script>
+</body>
+</html>
