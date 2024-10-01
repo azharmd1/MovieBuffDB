@@ -22,7 +22,7 @@ To set up and run the application locally:
 
 3. Configure the OMDb API key by signing up at OMDb API to obtain an API key. This key is added to the `application.properties` file:
    ```properties
-   omdb.api.key=YOUR_API_KEY
+   omdb.api.key=YOUR_API_KEY (6c9c6e96)
 The application can be run from the IDE or via the command line using:
 
 Run the application from the IDE or via the command line using the command: `./mvnw spring-boot:run`.
