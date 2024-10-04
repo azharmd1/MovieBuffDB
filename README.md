@@ -7,19 +7,13 @@ MovieBuffDB is a web application that leverages the Open Movie Database (OMDb) A
 
 **Table of Contents:**
 
-- Features
-
-- Setup and Run Instructions
-
-- Usage
-
-- Assumptions and Decisions
-
-- Screenshots
-
-- API Reference
-
-- Technologies Used
+- [Features](#features)
+- [Setup and Run Instructions](#setup-and-run-instructions)
+- [Usage](#usage)
+- [Assumptions and Decisions](#assumptions-and-decisions)
+- [Screenshots](#screenshots)
+- [API Reference](#api-reference)
+- [Technologies Used](#technologies-used)
 
 ---
 
