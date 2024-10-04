@@ -110,7 +110,7 @@ Click on the search button to display details such as the movie's ratings, plot 
 **Screenshots:**
 <img width="1384" alt="image" src="https://github.com/user-attachments/assets/34ead5b1-962c-4603-8613-10d66164627d">
 
-1\. **Screenshot 1:** Main Search Page with Results  
+1\. **Screenshot 1:** Main Search Page
 
 
 <img width="1427" alt="image" src="https://github.com/user-attachments/assets/7abca316-d3e8-406f-8dcc-3fbf3602664a">
