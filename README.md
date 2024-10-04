@@ -9,6 +9,7 @@ MovieBuffDB is a web application that leverages the Open Movie Database (OMDb) A
 
 - [Features](#features)
 - [Setup and Run Instructions](#setup-and-run-instructions)
+- [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Assumptions and Decisions](#assumptions-and-decisions)
 - [Screenshots](#screenshots)
@@ -17,7 +18,7 @@ MovieBuffDB is a web application that leverages the Open Movie Database (OMDb) A
 
 ---
 
-**Features:**
+## Features
 
 - **Search Movies:** Users can search for movies by title and retrieve detailed information including box office collections, ratings, and plot summaries.
 
@@ -27,7 +28,7 @@ MovieBuffDB is a web application that leverages the Open Movie Database (OMDb) A
 
 ---
 
-**Setup and Run Instructions:**
+## Setup and Run Instructions
 
 1\. **Clone the repository:**
 
@@ -69,7 +70,7 @@ omdb.api.key=6c9c6e96
 
 ---
 
-**Prerequisites:**
+## Prerequisites
 
 - Java JDK 11 or higher.
 
@@ -77,7 +78,7 @@ omdb.api.key=6c9c6e96
 
 ---
 
-**Usage:**
+## Usage
 
 1\. **Search Movies:**  
 
@@ -89,7 +90,8 @@ Click on the search button to display details such as the movie's ratings, plot 
 
 ---
 
-**Assumptions and Decisions:**
+## Assumptions and Decisions
+
 
 - **Assumptions:**
 
@@ -101,7 +103,7 @@ Click on the search button to display details such as the movie's ratings, plot 
 
 ---
 
-**Screenshots:**
+## Screenshots
 <img width="1384" alt="image" src="https://github.com/user-attachments/assets/34ead5b1-962c-4603-8613-10d66164627d">
 
 1\. **Screenshot 1:** Main Search Page
@@ -113,7 +115,7 @@ Click on the search button to display details such as the movie's ratings, plot 
 
 ---
 
-**API Reference:**
+## API Reference
 
 1\. **OMDb API:**
 
@@ -133,7 +135,7 @@ Click on the search button to display details such as the movie's ratings, plot 
 
 ---
 
-**Technologies Used:**
+## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript.
 
